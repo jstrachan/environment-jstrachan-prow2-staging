@@ -1,2 +1,3 @@
-# default-environment-charts
+# Staging repo
+
 The default git repository used when creating new GitOps based Environments
