@@ -12,7 +12,7 @@ expose:
     helm.sh/hook: post-install,post-upgrade
     helm.sh/hook-delete-policy: hook-succeeded
   config:
-    domain: 35.195.240.200.nip.io
+    domain: 35.205.151.242.nip.io
     exposer: Ingress
     http: "true"
     pathMode: ""
